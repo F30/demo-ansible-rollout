@@ -1,0 +1,4 @@
+- name: demo_ansible_role
+  src: https://github.com/F30/demo-ansible-role.git
+  scm: git
+  version: releases/v0.0.1

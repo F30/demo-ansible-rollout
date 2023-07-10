@@ -1,0 +1,5 @@
+- name: Run demo role
+  hosts:
+    - all
+  roles:
+    - demo_ansible_role
